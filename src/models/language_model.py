@@ -1,5 +1,5 @@
-from src.models.abstract_model import AbstractModel
-from src.database.db import db
+from models.abstract_model import AbstractModel
+from database.db import db
 
 
 class LanguageModel(AbstractModel):
